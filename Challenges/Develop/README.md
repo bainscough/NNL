@@ -14,7 +14,7 @@ This challenge is to create a simple application with a very basic user interfac
 * Input Validation.
 
 # Summary
-///The file path for the csv can be changed using the constant at the top of the csvmanager class.\\\
+*The file path for the csv can be changed using the constant at the top of the csvmanager class.*
 
 Potential improvements:
 The type of application being changed from a console application to a forms or similar application which can use interactible controls.
