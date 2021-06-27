@@ -9,5 +9,7 @@ Using the [mtcars](/mtcars.csv) dataset, produce two different designs to show h
 # Descriptions
 
 ## Design 1
+A UML Activity diagram. Demonstrates the flow of operations of the system depending on user inputs.
 
 ## Design 2
+A UML Use Case diagram. Demonstrates the possible actions of the user and csv manager to show how they will interact with the system.

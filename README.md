@@ -1,3 +1,5 @@
+Brandon Ainscough <ainscougbrandon@gmail.com>
+
 # Introduction 
 This Repo contains the Software Developer coding challenge. Once you have completed the challenge, send a link of your completed repo to <graham.eccleston@uknnl.com>
 

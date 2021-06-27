@@ -1,0 +1,3 @@
+F:\NNL\Challenges\Review\src\EventLog\obj\Debug\netcoreapp3.1\EventLog.AssemblyInfoInputs.cache
+F:\NNL\Challenges\Review\src\EventLog\obj\Debug\netcoreapp3.1\EventLog.AssemblyInfo.cs
+F:\NNL\Challenges\Review\src\EventLog\obj\Debug\netcoreapp3.1\EventLog.csproj.CoreCompileInputs.cache

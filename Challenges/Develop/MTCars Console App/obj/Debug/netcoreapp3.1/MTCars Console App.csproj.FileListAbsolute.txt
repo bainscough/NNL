@@ -1,0 +1,13 @@
+F:\NNL\Challenges\Develop\MTCars Console App\obj\Debug\netcoreapp3.1\MTCars Console App.csproj.AssemblyReference.cache
+F:\NNL\Challenges\Develop\MTCars Console App\obj\Debug\netcoreapp3.1\MTCars Console App.AssemblyInfoInputs.cache
+F:\NNL\Challenges\Develop\MTCars Console App\obj\Debug\netcoreapp3.1\MTCars Console App.AssemblyInfo.cs
+F:\NNL\Challenges\Develop\MTCars Console App\obj\Debug\netcoreapp3.1\MTCars Console App.csproj.CoreCompileInputs.cache
+F:\NNL\Challenges\Develop\MTCars Console App\bin\Debug\netcoreapp3.1\MTCars Console App.exe
+F:\NNL\Challenges\Develop\MTCars Console App\bin\Debug\netcoreapp3.1\MTCars Console App.deps.json
+F:\NNL\Challenges\Develop\MTCars Console App\bin\Debug\netcoreapp3.1\MTCars Console App.runtimeconfig.json
+F:\NNL\Challenges\Develop\MTCars Console App\bin\Debug\netcoreapp3.1\MTCars Console App.runtimeconfig.dev.json
+F:\NNL\Challenges\Develop\MTCars Console App\bin\Debug\netcoreapp3.1\MTCars Console App.dll
+F:\NNL\Challenges\Develop\MTCars Console App\bin\Debug\netcoreapp3.1\MTCars Console App.pdb
+F:\NNL\Challenges\Develop\MTCars Console App\obj\Debug\netcoreapp3.1\MTCars Console App.dll
+F:\NNL\Challenges\Develop\MTCars Console App\obj\Debug\netcoreapp3.1\MTCars Console App.pdb
+F:\NNL\Challenges\Develop\MTCars Console App\obj\Debug\netcoreapp3.1\MTCars Console App.genruntimeconfig.cache
